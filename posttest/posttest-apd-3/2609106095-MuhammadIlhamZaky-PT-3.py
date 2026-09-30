@@ -63,5 +63,5 @@ if nama =="iqbal" and nim == "104":
     print("==============================")
 
 else:
-    print("Login gagal, program berhenti")
+    print("Login gagal, program berhentii")
         
