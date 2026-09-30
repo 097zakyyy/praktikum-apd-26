@@ -2,7 +2,7 @@ print("===LOGIN RENTAL PS ===")
 nama = input("Masukkan Nama: ")
 nim = input("Masukkan 2/3 digit terakhir NIM: ")
 
-if nama =="zaky" and nim == "095":
+if nama =="zaky" and nim == "097":
     print("Login berhasil")
     print("")
     
