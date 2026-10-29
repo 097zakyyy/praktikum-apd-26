@@ -1,4 +1,3 @@
-
 import os
 
 bersih = "cls" if os.name == "nt" else "clear"
